@@ -4,6 +4,6 @@ Este repositório contém meu primeiro software, um sistema de gerenciamento de 
 # Objetivo
 O tema do projeto era: Automatizar processos manuais da vida cotidiana profissional
 
-#Linguagem utiizada
+# Linguagem utiizada
 Java
 
